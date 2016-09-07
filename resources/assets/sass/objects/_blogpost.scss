@@ -1,0 +1,104 @@
+.week-post {
+	background-color: #FFFFFF;
+	@include border-radius(3px);
+	@include box-shadow($border-color 0 1px 10px);
+	margin-top: 1em;
+	margin-bottom: 1em;
+	.post-header {
+			margin: 0;
+			float: left;
+			font-size: 1.7em;
+			line-height: 4.3rem;
+			padding-left: 1.5rem;
+			color: $link-color-hover;			
+		a {
+			text-decoration: none;
+			border: 0;
+			color: $link-color-hover;
+		}
+	}
+	.post-date {
+		margin: 0;
+		color: lighten($text-color, 40%);
+		padding-right: 0.75rem;
+		line-height: 4.3rem;
+		float: right;
+	}
+	@media only screen and (max-width: 350px) {
+		.post-header {
+			font-size: 1.4em;
+		}
+		.post-date {
+			font-size: 0.7em;
+			line-height: 5.3em;
+		}
+	}
+	hr {
+		padding: 0;
+		margin: 0 !important;
+		clear: both;
+	}
+	.info-week {
+		padding: 0 1.5rem 0;
+	}
+	ul {
+		float: left;
+		margin: 0;
+		line-height: 3em;
+			li {
+				padding: 1em;
+				color: $text-color;
+				line-height: 1.5em;
+				display: inline-block;
+				a {
+					color: $text-color;
+					border: none;
+				}
+				a:hover {
+					color: $color-light;
+				}	
+			}
+	}
+	@include clearfix;
+	@media only screen and (max-width: 600px) {
+		@include border-radius(0);
+		margin-top: 1em;
+		margin-bottom: 1em;
+
+		.post-header {
+			@include border-radius(0);
+		}
+	}	
+}
+
+.info-button {
+	width: 100%;
+	height: 3em;			
+	@include border-radius(0 0 4px 4px);
+	.info-block {
+		float: left;
+		margin: 0;
+		padding: 0 1.5rem 0;
+		line-height: 3em;
+		i {
+			margin-right: 0.5em;
+		}
+	}	
+	.btn {
+		color: $text-color;
+		line-height: 1.5em;
+		padding-top: 1em;
+		padding-bottom: 1em;
+		float: right;
+		background-color: #fff;
+		border-left: $border-color solid 1px;
+	}
+	.btn:hover, .btn:focus {
+		background-color: #fff;
+		color: $border-color;
+		@include box-shadow(inset 0 0 10px $border-color);
+	}
+	@media only screen and (max-width: 600px){	
+		@include border-radius(0);
+	}
+}

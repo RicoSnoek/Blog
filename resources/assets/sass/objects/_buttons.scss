@@ -1,0 +1,36 @@
+/* ==========================================================================
+	 buttons
+	 ========================================================================== */
+a.btn,
+button,
+input[type="button"],
+input[type="submit"],
+ {
+	border: 0;
+	background-color: $link-color;
+	padding: 0.5rem 0.75rem;
+	line-height: 1;
+	text-align: center;
+	@include user-select(none);
+
+	color: white;
+
+	font-size: 0.875rem;
+	text-transform: uppercase;
+	font-weight: $font-weight-bold;
+
+	transition: background-color 1s;
+	-webkit-transition: background-color 1s;
+	-moz-transition: background-color 1s;
+
+	&:hover, &:focus {
+		background-color: $link-color-hover;
+		color: white;
+	}
+
+	&:active {
+		background-color: $link-color-active;
+		color: white;
+	}
+
+}

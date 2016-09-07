@@ -1,0 +1,58 @@
+/* apply a natural box layout model to all elements, but allowing components to change */
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+html, body {
+	height: 100%;
+}
+body {
+	font-size: 100%; // 16px
+	overflow-x: hidden;
+	// @media only screen and (min-width: 1600px){
+	// 	font-size: 112.5%; // 18px
+	// }
+
+	// @media only screen and (min-width: 2200px){
+	// 	font-size: 125%; // 20px
+	// }
+}
+.wrapper {
+	min-width: 100%;
+    min-height: calc(100% - 50px);
+	background-color: #f2f2f2;
+    position: relative;
+    top: 0;
+    bottom: 100%;
+    left: 0;
+    z-index: 0;  
+}
+.wrapper:after {
+	content: "";
+}
+
+.container {
+	max-width: 80rem;
+	margin: 0 auto;
+	padding: 2em 5%;
+	@media only screen and (max-width: 600px){
+		padding: 0;
+	}
+	.con-row6 { width: 100%;}
+	.con-row5 { width: calc(100% / 6 * 5); float: left; }
+	.con-row4 { width: calc(100% / 6 * 4); float: left; }
+	.con-row3 { width: calc(100% / 6 * 3); float: left; }
+	.con-row2 { width: calc(100% / 6 * 2); float: left; }
+	.con-row1 { width: calc(100% / 6); float: left; }
+
+	@media only screen and (max-width: 600px){
+		.con-row1, .con-row2, .con-row3,
+		.con-row4, .con-row5, .con-row6 {
+			width: 100%;
+			float: none;
+		}
+	}
+		@include clearfix;
+}

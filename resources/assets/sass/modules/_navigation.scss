@@ -1,0 +1,16 @@
+.navigation {
+	text-align: center;
+	float: right;
+	#menu-icon {
+		color: white;
+		width: 40px;
+		height: 40px;
+	}
+	.menu-item {
+		display: inline-block;
+	}
+	@include vertical-align;
+}
+@media only screen and (max-width: 600px){
+
+}

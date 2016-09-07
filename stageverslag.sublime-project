@@ -1,0 +1,35 @@
+{
+	"folders":
+	[
+		{
+			"name": "Root",
+			"follow_symlinks": true,
+			"path": "./",
+			"file_exclude_patterns": ["*.css", "*.sql", "*.sublime-workspace", "build/main.js"]
+		},
+		{
+			"name": "App",
+			"follow_symlinks": true,
+			"path": "./app",
+			"file_exclude_patterns": ["*.css", "*.sql", "*.sublime-workspace", "build/main.js"]
+		},
+		{
+			"name": "Database",
+			"follow_symlinks": true,
+			"path": "./database",
+			"file_exclude_patterns": ["*.css", "*.sql", "*.sublime-workspace", "build/main.js"]
+		},
+		{
+			"name": "Resources",
+			"follow_symlinks": true,
+			"path": "./resources",
+			"file_exclude_patterns": ["*.css", "*.sql", "*.sublime-workspace", "build/main.js"]
+		},
+		{
+			"name": "Sass",
+			"follow_symlinks": true,
+			"path": "./resources/assets/sass",
+			"file_exclude_patterns": ["*.css", "*.sql", "*.sublime-workspace", "build/main.js"]
+		}
+	]
+}

@@ -1,0 +1,623 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"con-r",
+				"con-row6"
+			],
+			[
+				"con",
+				"con-row5"
+			],
+			[
+				"conrow",
+				"con-row4"
+			],
+			[
+				"con-row",
+				"con-row3"
+			],
+			[
+				"color",
+				"color-light"
+			],
+			[
+				"text",
+				"text-color"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"post",
+				"post-date"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"menu",
+				"menu-item"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"Post",
+				"PostRequest"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"table",
+				"table"
+			],
+			[
+				"vertic",
+				"vertical-text"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"border-",
+				"border-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "resources/views/waarbenik.blade.php",
+			"settings":
+			{
+				"buffer_size": 1910,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/assets/sass/views/_waarbenik.scss",
+			"settings":
+			{
+				"buffer_size": 724,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/assets/sass/app.scss",
+			"settings":
+			{
+				"buffer_size": 716,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/assets/sass/views/_header.scss",
+			"settings":
+			{
+				"buffer_size": 1822,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/assets/sass/base/_layout.scss",
+			"settings":
+			{
+				"buffer_size": 1246,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/assets/sass/views/_content.scss",
+			"settings":
+			{
+				"buffer_size": 804,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gebruiker/Documents/projects/stageverslag/resources/assets/sass/objects/_typography.scss",
+		"/Users/gebruiker/Documents/projects/stageverslag/resources/assets/sass/base/_layout.scss",
+		"/Users/gebruiker/Documents/projects/stageverslag/resources/views/posts/show.blade.php",
+		"/Users/gebruiker/Documents/projects/stageverslag/app/Http/Controllers/TagsController.php",
+		"/Users/gebruiker/Documents/projects/stageverslag/resources/assets/sass/mixins/_mediaqueries.scss",
+		"/Users/gebruiker/Documents/projects/stageverslag/resources/views/waarbenik.blade.php",
+		"/private/etc/hosts",
+		"/private/etc/apache2/extra/httpd-vhosts.conf",
+		"/private/etc/apache2/httpd.conf",
+		"/Users/gebruiker/stageverslag/resources/assets/sass/views/_header.scss",
+		"/Users/gebruiker/stageverslag/resources/assets/sass/objects/_buttons.scss",
+		"/Users/gebruiker/stageverslag/resources/views/layout.blade.php",
+		"/Users/gebruiker/stageverslag/resources/views/posts/show.blade.php",
+		"/Users/gebruiker/stageverslag/app/Http/routes.php",
+		"/Users/gebruiker/stageverslag/app/Http/Controllers/PagesController.php",
+		"/Users/gebruiker/stageverslag/resources/views/waarbenik.blade.php",
+		"/Users/gebruiker/stageverslag/resources/views/posts/overzicht.blade.php",
+		"/Users/gebruiker/stageverslag/app/Http/Controllers/PostsController.php",
+		"/Users/gebruiker/stageverslag/app/Http/Controllers/TagsController.php",
+		"/Users/gebruiker/stageverslag/resources/assets/sass/views/_content.scss",
+		"/Users/gebruiker/stageverslag/resources/assets/sass/objects/_blogpost.scss",
+		"/Users/gebruiker/stageverslag/resources/views/partials/blogpost.blade.php",
+		"/Users/gebruiker/stageverslag/resources/assets/sass/base/_variables.scss",
+		"/Users/gebruiker/stageverslag/resources/views/partials/header.blade.php",
+		"/Users/gebruiker/stageverslag/resources/views/partials/form.blade.php",
+		"/Users/gebruiker/stageverslag/resources/assets/sass/views/_footer.scss",
+		"/Users/gebruiker/stageverslag/resources/views/home.blade.php",
+		"/Users/gebruiker/stageverslag/resources/assets/sass/app.scss",
+		"/Users/gebruiker/stageverslag/resources/assets/sass/base/_layout.scss",
+		"/Users/gebruiker/Desktop/Feadship.txt",
+		"/Users/gebruiker/stageverslag/resources/views/partials/footer.blade.php",
+		"/Users/gebruiker/stageverslag/resources/assets/sass/modules/_navigation.scss",
+		"/Users/gebruiker/stageverslag/resources/assets/sass/objects/_forms.scss",
+		"/Users/gebruiker/stageverslag/app/Tag.php",
+		"/Users/gebruiker/stageverslag/app/Post.php",
+		"/Users/gebruiker/stageverslag/app/Providers/RouteServiceProvider.php",
+		"/Users/gebruiker/stageverslag/config/app.php",
+		"/Users/gebruiker/stageverslag/database/migrations/2016_02_10_140337_create_tags_table.php",
+		"/Users/gebruiker/stageverslag/resources/views/layouts/app.blade.php",
+		"/Users/gebruiker/stageverslag/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/Users/gebruiker/stageverslag/app/Http/Middleware/Demo.php",
+		"/Users/gebruiker/stageverslag/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php",
+		"/Users/gebruiker/stageverslag/app/Http/Middleware/Authenticate.php",
+		"/Users/gebruiker/stageverslag/node_modules/coffee-script/lib/coffee-script/register.js",
+		"/Users/gebruiker/stageverslag/resources/assets/sass/objects/_inputs.scss",
+		"/Users/gebruiker/stageverslag/database/migrations/2016_02_05_094214_create_posts_table.php",
+		"/Users/gebruiker/stageverslag/app/User.php",
+		"/Users/gebruiker/stageverslag/resources/views/admin.blade.php",
+		"/Users/gebruiker/stageverslag/resources/views/posts/edit.blade.php",
+		"/Users/gebruiker/stageverslag/resources/views/errors/list.blade.php",
+		"/Users/gebruiker/stageverslag/app/Http/Requests/PostRequest.php",
+		"/Users/gebruiker/stageverslag/app/Http/Requests/CreatePostRequest.php",
+		"/Users/gebruiker/stageverslag/vendor/illuminate/html/HtmlServiceProvider.php",
+		"/Users/gebruiker/stageverslag/app/Http/Controllers/AdminController.php",
+		"/Users/gebruiker/stageverslag/resources/views/overzicht.blade.php",
+		"/Users/gebruiker/stageverslag/stageverslag.sublime-project",
+		"/Users/gebruiker/stageverslag/app/Posts.php",
+		"/Users/gebruiker/stageverslag/database/migrations/2016_02_05_093839_posts.php",
+		"/Users/gebruiker/stageverslag/database/migrations/2016_02_04_130814_create_weekverslagen_table.php",
+		"/Users/gebruiker/Documents/projects/rico-test-boilerplate/index.html",
+		"/Users/gebruiker/stageverslag/gulpfile.js",
+		"/Users/gebruiker/stageverslag/.env",
+		"/Users/gebruiker/stageverslag/package.json",
+		"/Users/gebruiker/stageverslag/config.rb",
+		"/Users/gebruiker/stageverslag/resources/assets/sass/base/_base.scss",
+		"/Users/gebruiker/stageverslag/public/css/style.css",
+		"/Users/gebruiker/stageverslag/resources/views/header.blade.php",
+		"/Users/gebruiker/stageverslag/resources/layout.blade.php",
+		"/Users/gebruiker/Documents/projects/rico-test-boilerplate/sass/base/_layout.scss",
+		"/Users/gebruiker/Documents/projects/rico-test-boilerplate/sass/base/_variables.scss",
+		"/Users/gebruiker/Documents/projects/rico-test-boilerplate/sass/style.scss",
+		"/Users/gebruiker/Documents/projects/rico-test-boilerplate/sass/modules/_navigation.scss",
+		"/Users/gebruiker/Documents/projects/rico-test-boilerplate/sass/views/_content.scss",
+		"/Users/gebruiker/Documents/projects/rico-test-boilerplate/sass/modules/_layout.scss",
+		"/Users/gebruiker/Documents/projects/rico-test-boilerplate/sass/mixins/_clearfix.scss",
+		"/Users/gebruiker/Documents/projects/rico-test-boilerplate/sass/mixins/_mediaqueries.scss",
+		"/Users/gebruiker/Documents/projects/rico-test-boilerplate/sass/mixins/_verticalalign.scss",
+		"/Users/gebruiker/Documents/projects/rico-test-boilerplate/sass/views/_header.scss",
+		"/Users/gebruiker/Documents/projects/rico-test-boilerplate/sass/objects/_buttons.scss",
+		"/Users/gebruiker/Documents/projects/rico-test-boilerplate/sass/objects/_typography.scss",
+		"/Users/gebruiker/Documents/projects/rico-test-boilerplate/GruntFile.js",
+		"/Users/gebruiker/Documents/projects/rico-test-boilerplate/sass/sections/_header.scss",
+		"/Users/gebruiker/Documents/projects/rico-test-boilerplate/sass/base/_base.scss",
+		"/Users/gebruiker/Documents/projects/rico-test-boilerplate/sass/modules/_buttons.scss",
+		"/Users/gebruiker/Documents/projects/rico-test-boilerplate/sass/_base.scss",
+		"/Users/gebruiker/Documents/projects/rico-test-boilerplate/sass/_normalize.scss",
+		"/Users/gebruiker/Documents/projects/rico-test-boilerplate/sass/_typography.scss",
+		"/Users/gebruiker/Documents/projects/rico-test-boilerplate/sass/objects/_inputs.scss",
+		"/Users/gebruiker/Documents/projects/rico-test-boilerplate/css/style.css",
+		"/Users/gebruiker/Documents/projects/rico-test-boilerplate/sass/style.css",
+		"/Users/gebruiker/Documents/projects/ritter-kleurenjacht/resources/views/layouts/default.blade.php",
+		"/Users/gebruiker/Documents/projects/ritter-kleurenjacht/resources/views/pages/overview.blade.php",
+		"/Users/gebruiker/Documents/projects/ritter-kleurenjacht/resources/views/partials/stack-feedback.blade.php",
+		"/Users/gebruiker/Documents/projects/ritter-kleurenjacht/app/Http/Controllers/PagesController.php",
+		"/Users/gebruiker/Documents/projects/ritter-kleurenjacht/resources/lang/i18n/da_DK/LC_MESSAGES/messages.po",
+		"/Users/gebruiker/Documents/projects/ritter-kleurenjacht/resources/lang/i18n/nl_NL/LC_MESSAGES/messages.po"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/gebruiker/Documents/projects/stageverslag/resources/assets/sass",
+			"/Users/gebruiker/stageverslag/app/Http/Controllers",
+			"/Users/gebruiker/stageverslag/app",
+			"/Users/gebruiker/Documents/projects/ritter-kleurenjacht/resources/views/pages",
+			"/Users/gebruiker/Documents/projects/ritter-kleurenjacht/resources/views/partials",
+			"/Users/gebruiker/Documents/projects/ritter-kleurenjacht/resources/views"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"1em",
+			";\n",
+			"display: block;",
+			"h1",
+			"verti",
+			"overflow",
+			"sub-container",
+			";\n",
+			"right",
+			"hr",
+			";\n",
+			"left",
+			"posts()",
+			"created",
+			"}\n",
+			"/dk/",
+			"request",
+			"id",
+			"Carbon",
+			"}",
+			"home",
+			"');",
+			"home",
+			"<li>",
+			"0",
+			" ;",
+			"darken",
+			"\n",
+			"}",
+			"body",
+			"@import",
+			"/dk/",
+			"/dk/bars",
+			"campaign",
+			"stack-feedback",
+			"hoera"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resources/views/waarbenik.blade.php",
+					"settings":
+					{
+						"buffer_size": 1910,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								391,
+								391
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/assets/sass/views/_waarbenik.scss",
+					"settings":
+					{
+						"buffer_size": 724,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								490,
+								492
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/assets/sass/app.scss",
+					"settings":
+					{
+						"buffer_size": 716,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								562,
+								562
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/assets/sass/views/_header.scss",
+					"settings":
+					{
+						"buffer_size": 1822,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								395,
+								395
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "resources/assets/sass/base/_layout.scss",
+					"settings":
+					{
+						"buffer_size": 1246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								770,
+								710
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "resources/assets/sass/views/_content.scss",
+					"settings":
+					{
+						"buffer_size": 804,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								790,
+								793
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"header.sc",
+				"Sass/views/_header.scss"
+			],
+			[
+				"authenticate",
+				"Root/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php"
+			],
+			[
+				"authenticateu",
+				"Root/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php"
+			],
+			[
+				"authenticateus",
+				"Root/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php"
+			],
+			[
+				"postregister",
+				"Root/node_modules/coffee-script/lib/coffee-script/register.js"
+			],
+			[
+				"post",
+				"App/Http/Controllers/PostsController.php"
+			],
+			[
+				"_layout",
+				"sass/base/_layout.scss"
+			],
+			[
+				"_buttons",
+				"sass/objects/_buttons.scss"
+			],
+			[
+				"_varia",
+				"sass/base/_variables.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true
+}

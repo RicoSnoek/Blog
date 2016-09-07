@@ -1,0 +1,101 @@
+/* header
+   ========================================================================== */
+header {
+	width: 100%;
+	&.page-header {
+		background-color: $color-brand-primary;
+		h1 {
+			margin: 0;
+			padding: 0.2em;
+			font-size: 2.5em;
+			color: white;
+			float: left;
+		}
+		.ifMob { display: none; }
+		@media only screen and (max-width: 640px){h1 { display: none; } .ifMob { display: initial; }}}
+	@include clearfix;
+}
+
+.menu {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	background-color: $color-brand-primary;
+	width: 10em;
+	height: 100%;
+	position: fixed;
+	top: 0;
+	right: -10em;
+	bottom: 0;
+	z-index: 1;
+	transition: right 0.2s;
+	-webkit-transition: right 0.2s;
+	-moz-transition: right 0.2s;
+	.menu-item:first-child {
+		margin-top: 1em;
+	}
+	.menu-item a{
+		text-align: left;
+		display: block;
+		width: 100%;
+	}
+}
+
+.menu-trigger {
+	position: absolute;
+	clip: rect(0,0,0,0);
+}
+.menu-trigger:checked + label {
+	right: 11em;
+}
+.menu-trigger:checked ~ .menu {
+	right: 0 !important;
+	@include box-shadow(#000 -2px 0 10px -2px);
+}
+label[for="menu-trigger"] {
+	position: absolute;
+	top: 1.4em;
+	right: 1em;
+	z-index: 1;
+	width: 40px;
+	height: 30px;
+	cursor: pointer;
+	transition: right 0.2s;
+	-webkit-transition: right 0.2s;
+	-moz-transition: right 0.2s;
+}
+.menu-icon {
+  background: transparent;
+
+  &:before,
+  &:after {
+    background: #fff;
+    backface-visibility: hidden;
+    content: "";
+    height: 1px;
+    left: 0;
+    transition: 0.75s;
+    width: 40px;
+  }
+  &:before {
+    box-shadow: #fff 0 14px 0 0;
+    position: absolute;
+    top: 0;
+  }
+  &:after {
+    position: absolute;
+    top: 28px;
+  }
+
+}
+.menu-trigger:checked + label{
+    &:before {
+      box-shadow: transparent 0 0 0 0;
+      top: 1em;
+      transform: rotate(225deg);
+    }
+    &:after {  
+      top: 1em;
+      transform: rotate(315deg);
+    }
+  }

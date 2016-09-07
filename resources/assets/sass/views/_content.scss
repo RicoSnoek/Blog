@@ -1,0 +1,52 @@
+.info-container {
+	background-color: #ffffff;
+	overflow: auto;
+	padding: 3em 0 5em 0;
+	.info-title {
+		text-align: center;
+		color: $text-color;
+		font-size: 3em;
+		margin-bottom: 0
+	}
+	.info-subtitle {
+		margin-top: 0;
+		text-align: center;
+		color: $color-light;
+	}
+	.info-text {
+		width: 75%;
+		max-width: 40em;
+		margin: 0 auto;
+		text-align: center;
+		font-size: 1.3em;
+	}
+	ul {
+		width: 75%;
+		max-width: 40em;
+		margin: 1em auto;
+		list-style-type: none;
+		li {
+			padding: 1em;
+			display: inline-block;
+			a {
+				color: $text-color;
+				border: none;
+			}
+			a:hover {
+				color: $color-light;
+			}	
+		}
+
+	}
+	@media only screen and(min-width: 1600px) {
+		.info-text {
+			width: 50%;
+		}
+	}
+		@media only screen and(max-width: 600px) {
+		.info-text {
+			width: 100%;
+			padding: 0 1em;
+		}
+	}
+}	

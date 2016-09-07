@@ -1,0 +1,53 @@
+.con-waarbenik {
+	.werk {
+		height: auto;
+		@include clearfix;
+				background-color: #fff;
+	}
+	.w-header {
+		@include clearfix;
+	}
+	.w-rows {
+		padding: 1em;
+		.w-title {
+			width: 75%;
+			margin: 1em auto 0;
+
+			//Possible --
+			//text-align: center;
+		}
+		hr {
+			width: 75%;
+		}
+		ul {
+			list-style-type: none;
+		}
+		p, ul {
+			width: 75%;
+			margin: 0 auto;
+			margin-bottom: 1.5em;
+		}
+		@media only screen and (max-width: 600px){
+			.w-title {
+				width: 100%;
+				margin: 1em auto 0;
+			}
+			p, ul, hr {
+				width: 100%;
+			}
+		}
+	}
+	.info-image {
+		max-width: 100%;
+	}
+}
+.ss-container {
+	padding: 0 5%;
+	.ss-image {
+		width: 15em;
+		float: left;
+		@media only screen and (max-width: 600px){
+			width: 10em;
+		}
+	}
+}
